@@ -1,0 +1,9 @@
+.idea
+.idea/
+.cache
+.log
+.logs
+*.pyc
+*.tmp
+*.iml
+~$*
