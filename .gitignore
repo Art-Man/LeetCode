@@ -1,5 +1,7 @@
 .idea
 .idea/
+/lib/
+/target/
 .cache
 .log
 .logs
