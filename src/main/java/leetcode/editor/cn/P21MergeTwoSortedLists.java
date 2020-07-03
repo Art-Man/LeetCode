@@ -101,22 +101,23 @@ public class P21MergeTwoSortedLists {
 
 }
 
-class ListNode {
-    int val;
-    ListNode next;
+//class ListNode {
+//    int val;
+//    ListNode next;
+//
+//    ListNode() {
+//    }
+//
+//    ListNode(int val) {
+//        this.val = val;
+//    }
+//
+//    ListNode(int val, ListNode next) {
+//        this.val = val;
+//        this.next = next;
+//    }
+//}
 
-    ListNode() {
-    }
-
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
 // ListNode is a class for storing a single node of a linked list storing
 // integer values.  It has two public data fields for the data and the link to
 // the next node in the list and has three constructors:
